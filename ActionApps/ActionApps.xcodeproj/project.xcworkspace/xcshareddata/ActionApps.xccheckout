@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4BD40648-9F95-4469-871A-6F82611B3626</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActionApps</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46D21E696EA439DF2A9A85164AD87FEF36B40CCC</key>
+		<string>https://github.com/Chunyulo/iOS-dev.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActionApps/ActionApps.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>46D21E696EA439DF2A9A85164AD87FEF36B40CCC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Chunyulo/iOS-dev.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>46D21E696EA439DF2A9A85164AD87FEF36B40CCC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46D21E696EA439DF2A9A85164AD87FEF36B40CCC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-dev</string>
+		</dict>
+	</array>
+</dict>
+</plist>
